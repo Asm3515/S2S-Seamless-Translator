@@ -9,3 +9,18 @@ section {
     min-height: fit-content;
   }
   
+
+.main-app-page{
+    display: flex;
+    align-items: center;
+}
+
+.Seamless-Picture{
+    height: 40%;
+    width: 50%;
+}
+
+.youtube-input{
+    font-size: 30px;
+    
+}
